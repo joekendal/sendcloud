@@ -1,4 +1,4 @@
-module github.com/joekendal/sendcloud-go
+module github.com/joekendal/sendcloud
 
 go 1.16
 
