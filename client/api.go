@@ -1,11 +1,11 @@
 package client
 
 import (
-	"github.com/afosto/sendcloud-go/integration"
-	"github.com/afosto/sendcloud-go/method"
-	"github.com/afosto/sendcloud-go/parcel"
-	"github.com/afosto/sendcloud-go/sender"
-	"github.com/afosto/sendcloud-go/servicepoint"
+	"github.com/joekendal/sendcloud-sdk-go/integration"
+	"github.com/joekendal/sendcloud-sdk-go/method"
+	"github.com/joekendal/sendcloud-sdk-go/parcel"
+	"github.com/joekendal/sendcloud-sdk-go/sender"
+	"github.com/joekendal/sendcloud-sdk-go/servicepoint"
 )
 
 type API struct {
