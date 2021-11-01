@@ -72,21 +72,3 @@ spid, err := api.ServicePoint.GetServicePoint(servicepoint.Matcher{
 fmt.PrintLn(spid) 
 ```
 this service point id can then be placed on an parcel on creation
-
-
-## Contributing
-
-All contributions / suggestions are welcome. Please raise an issue or submit a PR.
-
-
-## Thanks
-
-This package was heavily inspired by `stripe-go`.
-
-## Author
-
-This package is developed by [Afosto SaaS BV](https://afosto.com).
-
-## License
-
-MIT.
