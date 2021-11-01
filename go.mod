@@ -1,5 +1,5 @@
-module github.com/afosto/sendcloud-go
+module github.com/joekendal/sendcloud-go
 
-go 1.15
+go 1.16
 
 require golang.org/x/text v0.3.5
