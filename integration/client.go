@@ -1,7 +1,7 @@
 package integration
 
 import (
-	"github.com/afosto/sendcloud-go"
+	"github.com/joekendal/sendcloud-sdk-go"
 	"strconv"
 )
 
