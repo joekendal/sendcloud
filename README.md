@@ -1,8 +1,8 @@
-# sendcloud-go
+# sendcloud-sdk-go
 
-An API-client for Sendcloud written in Golang.
+Fork of afosto/sendcloud-go
 
-## Overview [![GoDoc](https://godoc.org/github.com/afosto/sendcloud-go?status.svg)](https://godoc.org/github.com/afosto/sendcloud-go)
+## Overview [![GoDoc](https://godoc.org/github.com/joekendal/sendcloud-sdk-go?status.svg)](https://godoc.org/github.com/joekendal/sendcloud-sdk-go)
 
 This package currently supports:
 - parcels
@@ -14,7 +14,7 @@ This package currently supports:
 ## Install
 
 ```
-go get github.com/afosto/sendcloud-go
+go get github.com/joekendal/sendcloud-sdk-go
 ```
 
 ## Examples
