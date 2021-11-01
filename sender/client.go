@@ -1,7 +1,7 @@
 package sender
 
 import (
-	"github.com/afosto/sendcloud-go"
+	"github.com/joekendal/sendcloud-sdk-go"
 )
 
 type Client struct {
