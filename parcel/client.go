@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 	"errors"
-	sendcloud "github.com/afosto/sendcloud-go"
+	sendcloud "github.com/joekendal/sendcloud-sdk-go"
 	"strconv"
 )
 
